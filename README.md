@@ -1,7 +1,4 @@
 # PayStreamAPI
-A mock payment and fund transfer microservice built with Spring Boot featuring rate-limiting, asynchronous processing, and Docker deployment for easy testing and development.
-
-# PayStreamAPI
 
 A mock payment and fund transfer microservice built with Spring Boot to simulate payment processing workflows. Features rate-limiting to prevent abuse and asynchronous transaction processing for better performance.
 
