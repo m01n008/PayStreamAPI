@@ -29,7 +29,7 @@ A mock payment and fund transfer microservice built with Spring Boot to simulate
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/PayStreamAPI.git
+   git clone https://github.com/m01n008/PayStreamAPI.git
    cd PayStreamAPI
 Build the project:
 
